@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "magister-api-key": "^1.0.0"
+    "googleapis": "^67.0.0",
+    "magister-api-key": "^1.5.4",
+    "request": "^2.88.2"
   }
 }
